@@ -1,0 +1,3 @@
+interface:
+  display_name: "Screenshot to Figma Lo-Fi Prompt"
+  short_description: "Turn UI screenshots into prompts for Figma low-fidelity prototypes"

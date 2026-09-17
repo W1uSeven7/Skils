@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype To Flowchart Mermaid"
+  short_description: "从原型或 PRD 生成基础 Mermaid 流程图。"
+  default_prompt: "根据我提供的 Figma 原型、PRD 描述或需求补充，先读取原型并确认不确定信息，再输出兼容 PRD 的 Mermaid flowchart TD 代码。"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Figma PRD Writer"
+  short_description: "Create PRDs from Figma prototypes and requirement summaries"

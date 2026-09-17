@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype To Swimlane Mermaid"
+  short_description: "从原型生成布局优化的 Mermaid 泳道图。"
+  default_prompt: "根据我提供的原型或流程需求，先提问确认泳道和业务规则，再输出布局优化的 Mermaid swimlane-beta 代码、节点清单、连线清单和布局自检结果。"

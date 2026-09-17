@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swimlane To Figma Prompt"
+  short_description: "生成用于 Figma agent 复现泳道图的提示词。"
+  default_prompt: "根据 Mermaid 泳道图代码、节点/连线清单和 SVG，生成给 Figma agent 的复现提示词和验收清单。"
